@@ -1,0 +1,13 @@
+/Users/armanhossain/Projects/hello_world/hello_world/bin/Debug/netcoreapp3.1/hello_world.deps.json
+/Users/armanhossain/Projects/hello_world/hello_world/bin/Debug/netcoreapp3.1/hello_world.runtimeconfig.json
+/Users/armanhossain/Projects/hello_world/hello_world/bin/Debug/netcoreapp3.1/hello_world.runtimeconfig.dev.json
+/Users/armanhossain/Projects/hello_world/hello_world/bin/Debug/netcoreapp3.1/hello_world.dll
+/Users/armanhossain/Projects/hello_world/hello_world/bin/Debug/netcoreapp3.1/hello_world.pdb
+/Users/armanhossain/Projects/hello_world/hello_world/obj/Debug/netcoreapp3.1/hello_world.csproj.AssemblyReference.cache
+/Users/armanhossain/Projects/hello_world/hello_world/obj/Debug/netcoreapp3.1/hello_world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/armanhossain/Projects/hello_world/hello_world/obj/Debug/netcoreapp3.1/hello_world.AssemblyInfoInputs.cache
+/Users/armanhossain/Projects/hello_world/hello_world/obj/Debug/netcoreapp3.1/hello_world.AssemblyInfo.cs
+/Users/armanhossain/Projects/hello_world/hello_world/obj/Debug/netcoreapp3.1/hello_world.csproj.CoreCompileInputs.cache
+/Users/armanhossain/Projects/hello_world/hello_world/obj/Debug/netcoreapp3.1/hello_world.dll
+/Users/armanhossain/Projects/hello_world/hello_world/obj/Debug/netcoreapp3.1/hello_world.pdb
+/Users/armanhossain/Projects/hello_world/hello_world/obj/Debug/netcoreapp3.1/hello_world.genruntimeconfig.cache
